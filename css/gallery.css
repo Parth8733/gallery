@@ -1,0 +1,26 @@
+#gallery{
+    text-align: center;
+}
+figure img{
+    width: 1230px;
+    height:800px;
+    border-color:gray;
+    border-style: solid;
+    border-width: thick;
+}
+ul{
+    list-style-type : none;
+    text-align: center;
+}
+
+li{
+    float:left;
+    border-color:gray;
+    border-style: solid;
+    border-width: thick;
+}
+figcaption
+{
+    text-align: center;
+    font-weight: bold;
+}
